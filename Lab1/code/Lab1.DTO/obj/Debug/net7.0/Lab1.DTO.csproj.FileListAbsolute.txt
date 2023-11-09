@@ -1,0 +1,12 @@
+/Users/artur/source/cdv/iot23_ziemianski/lab1/Lab1.DTO/bin/Debug/net7.0/Lab1.DTO.deps.json
+/Users/artur/source/cdv/iot23_ziemianski/lab1/Lab1.DTO/bin/Debug/net7.0/Lab1.DTO.dll
+/Users/artur/source/cdv/iot23_ziemianski/lab1/Lab1.DTO/bin/Debug/net7.0/Lab1.DTO.pdb
+/Users/artur/source/cdv/iot23_ziemianski/lab1/Lab1.DTO/obj/Debug/net7.0/Lab1.DTO.csproj.AssemblyReference.cache
+/Users/artur/source/cdv/iot23_ziemianski/lab1/Lab1.DTO/obj/Debug/net7.0/Lab1.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur/source/cdv/iot23_ziemianski/lab1/Lab1.DTO/obj/Debug/net7.0/Lab1.DTO.AssemblyInfoInputs.cache
+/Users/artur/source/cdv/iot23_ziemianski/lab1/Lab1.DTO/obj/Debug/net7.0/Lab1.DTO.AssemblyInfo.cs
+/Users/artur/source/cdv/iot23_ziemianski/lab1/Lab1.DTO/obj/Debug/net7.0/Lab1.DTO.csproj.CoreCompileInputs.cache
+/Users/artur/source/cdv/iot23_ziemianski/lab1/Lab1.DTO/obj/Debug/net7.0/Lab1.DTO.dll
+/Users/artur/source/cdv/iot23_ziemianski/lab1/Lab1.DTO/obj/Debug/net7.0/refint/Lab1.DTO.dll
+/Users/artur/source/cdv/iot23_ziemianski/lab1/Lab1.DTO/obj/Debug/net7.0/Lab1.DTO.pdb
+/Users/artur/source/cdv/iot23_ziemianski/lab1/Lab1.DTO/obj/Debug/net7.0/ref/Lab1.DTO.dll

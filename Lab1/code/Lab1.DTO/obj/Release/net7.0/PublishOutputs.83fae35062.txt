@@ -1,0 +1,3 @@
+C:\IoT\publish\Lab1.DTO.dll
+C:\IoT\publish\Lab1.DTO.deps.json
+C:\IoT\publish\Lab1.DTO.pdb

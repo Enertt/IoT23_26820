@@ -91,7 +91,7 @@ public static HttpResponseData Run(
 
         private static void ConfigureDependencies(IServiceCollection services)
         {
-            string connectionString = "Server=tcp:dyakovenkoserver.database.windows.net,1433;Initial Catalog=dyakovenkodb;Persist Security Info=False;User ID=dyakovenko;Password=h22ZD1#yRzV;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+            string connectionString = "Server=tcp:yzavorotynskyiserver.database.windows.net,1433;Initial Catalog=yzavorotynskyidb;Persist Security Info=False;User ID=yzavorotynskyi;Password=h22ZD1#yRzV;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
             services.AddDbContext<ApplicationDbContext>(
                 options => options.UseSqlServer(connectionString)
             );
